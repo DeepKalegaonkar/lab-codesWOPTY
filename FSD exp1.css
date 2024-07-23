@@ -1,0 +1,19 @@
+body {
+    background-image: url('https://media.istockphoto.com/photos/matte-white-texture-picture-id1217986589?k=6&m=1217986589&s=170667a&w=0&h=ewcswEfB8JdfdqGnPMxz8qDVU856CLe0Hnl4zDQueM4=');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+img {
+    display: block;
+    margin-left: 12px;
+    margin-right: 12px;
+    height: 190px;
+    width: 190px;
+}
+
+p {
+   font-family: sans-serif;
+   font-size: auto;
+}
